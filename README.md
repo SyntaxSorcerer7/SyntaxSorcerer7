@@ -21,12 +21,6 @@ Die Projekte sind unabhängig voneinander nutzbar. Sie werden nicht von den jewe
 
 - Du möchtest **Shelfmark direkt auf deinem E-Reader nutzen**? Mit [Shelfmark für KOReader](https://github.com/SyntaxSorcerer7/shelfmark.koplugin) kannst du nach Titel oder Autor suchen, eine aktive Suchbibliothek wählen und Bücher über deinen Server abrufen.
 
-## Grundsätze
-
-- Lokal vor Cloud, wenn das Gerät dies unterstützt.
-- Keine Zugangsdaten, privaten IP-Adressen, Seriennummern, MAC-Adressen oder vollständigen Aufzeichnungen in Issues oder Pull Requests veröffentlichen.
-- Änderungen an Leistungsgrenzen, Speicher- oder Smart-Meter-Konfigurationen erst prüfen und anschließend am Gerät zurücklesen.
-
 ## Mitwirken
 
 Fehlerberichte und Pull Requests sind willkommen. Bitte füge eine anonymisierte Beschreibung der Umgebung, die verwendete Software-/Firmware-Version und nachvollziehbare Schritte zum Reproduzieren bei.
